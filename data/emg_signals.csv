@@ -1,0 +1,5 @@
+signal1,signal2,signal3,label
+0.2,0.1,0.4,open_hand
+0.8,0.6,0.9,close_fist
+0.3,0.2,0.3,relax
+...
